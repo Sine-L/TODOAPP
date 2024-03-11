@@ -5,7 +5,8 @@ npm install     // npm을 설치한다. node_modules 폴더에 생성됨
                 // 경로지정은 cd Users/Desktop/... 커맨드를 이용하여 터미널 경로선택 후 npm install
 
 
-npm init 으로 셋팅하기
+npm init 으로 셋팅하기    //  entry point 를 (서버).js 로 설정
+
 
 npm express 설치
 
